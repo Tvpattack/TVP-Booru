@@ -1,0 +1,59 @@
+{
+  "files": [
+    {
+      "id": "0",
+      "filename": "eGmgxaJrQuABJ0YvJ1o1XJUJ4EM=.png",
+      "tags": "phyrexia gold black hand_hate oil_painting oil Nick_Keller",
+      "sources": [
+        "www.artstation.com/artwork/wJR12O"
+      ],
+      "related": []
+    },
+    {
+      "id": "1",
+      "filename": "wsMH7BU5g8vWsD_XlWy4yaDX5eg=.png",
+      "tags": "Gold Collisseum Stone Ruins Moon Cloud Nick_Keller Beastwars Angel Artifact Cleric",
+      "sources": [
+        "www.artstation.com/artwork/KOInd4"
+      ],
+      "related": []
+    }
+  ],
+  "collections": [],
+  "specificTags": {
+    "artist": [
+      "unknown_artist",
+      "anonymous_artist",
+      "third-party_edit",
+      "artist_name",
+      "Nick_Keller"
+    ],
+    "character": [
+      "fan_character"
+    ],
+    "copyright": [
+      "nintendo",
+      "pokemon",
+      "pokemon_(game)",
+      "animal_crossing",
+      "hasbro",
+      "disney",
+      "sega",
+      "bandai_namco",
+      "Beastwars"
+    ],
+    "species": [
+      "pokemon_(creature)",
+      "pokemon_(species)",
+      "humanoid",
+      "mammal",
+      "canid",
+      "equid",
+      "fox",
+      "felinedragonwolfreptile",
+      "Angel",
+      "Artifact",
+      "Cleric"
+    ]
+  }
+}
