@@ -17,16 +17,32 @@
         "www.artstation.com/artwork/KOInd4"
       ],
       "related": []
+    },
+    {
+      "id": "2",
+      "filename": "GcBMAW5FsyGD39NrDbpQLaUDKXg=.png",
+      "tags": "Space Stars nightdrawinger Artifact Ship Vehicle Spacecraft",
+      "sources": [
+        "https://www.deviantart.com/nightdrawinger/art/Ancient-Unknown-Spaceship-1295302033"
+      ],
+      "related": []
     }
   ],
-  "collections": [],
+  "collections": [
+    {
+      "id": "0",
+      "pages": [],
+      "name": "DSW"
+    }
+  ],
   "specificTags": {
     "artist": [
       "unknown_artist",
       "anonymous_artist",
       "third-party_edit",
       "artist_name",
-      "Nick_Keller"
+      "Nick_Keller",
+      "nightdrawinger"
     ],
     "character": [
       "fan_character"
@@ -53,7 +69,10 @@
       "felinedragonwolfreptile",
       "Angel",
       "Artifact",
-      "Cleric"
+      "Cleric",
+      "Ship",
+      "Vehicle",
+      "Spacecraft"
     ]
   }
 }
