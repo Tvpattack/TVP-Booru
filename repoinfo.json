@@ -26,6 +26,15 @@
         "https://www.deviantart.com/nightdrawinger/art/Ancient-Unknown-Spaceship-1295302033"
       ],
       "related": []
+    },
+    {
+      "id": "3",
+      "filename": "x50YgWWkxd1Y2dYk0zkxImTe5yY=.png",
+      "tags": "Skull Yitie Ma Skeleton",
+      "sources": [
+        "https://www.artstation.com/artwork/8lV22G"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -42,7 +51,9 @@
       "third-party_edit",
       "artist_name",
       "Nick_Keller",
-      "nightdrawinger"
+      "nightdrawinger",
+      "Yitie",
+      "Ma"
     ],
     "character": [
       "fan_character"
@@ -72,7 +83,8 @@
       "Cleric",
       "Ship",
       "Vehicle",
-      "Spacecraft"
+      "Spacecraft",
+      "Skeleton"
     ]
   }
 }
