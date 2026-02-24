@@ -62,6 +62,15 @@
         "www.deviantart.com/aleygiro/art/1-1301521506"
       ],
       "related": []
+    },
+    {
+      "id": "7",
+      "filename": "jcwYNKJX2HK6KxCa98qw3Df2YBg=.jpg",
+      "tags": "solo no_humans long_hair glowing spectral sword HopeVirtual spirit",
+      "sources": [
+        "https://www.deviantart.com/hopevirtual/art/Rapture-1299497648"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -92,7 +101,8 @@
       "Yitie",
       "Ma",
       "Guillaume_Nomad",
-      "\rAleyGiro"
+      "\rAleyGiro",
+      "HopeVirtual"
     ],
     "character": [
       "fan_character"
@@ -129,7 +139,8 @@
       "Doll",
       "bug",
       "monster",
-      "Bird"
+      "Bird",
+      "spirit"
     ]
   }
 }
