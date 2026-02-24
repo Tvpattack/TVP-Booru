@@ -35,6 +35,15 @@
         "https://www.artstation.com/artwork/8lV22G"
       ],
       "related": []
+    },
+    {
+      "id": "4",
+      "filename": "TCoOi1Y46qkxVr-NYqEMsodfAPQ=.jpg",
+      "tags": "Norse Creature Masked Snow Wings Fur solo 1girl long_hair full_body white_hair looking_at_viewer horns standing cape original sky cloud outdoors gloves bangs breasts weapon armor fur_trim holding red_eyes wings long_sleeves smile Guillaume_Nomad Moth Angel Valkyrie Doll",
+      "sources": [
+        "https://www.artstation.com/artwork/98Jz6N"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -53,7 +62,8 @@
       "Nick_Keller",
       "nightdrawinger",
       "Yitie",
-      "Ma"
+      "Ma",
+      "Guillaume_Nomad"
     ],
     "character": [
       "fan_character"
@@ -84,7 +94,10 @@
       "Ship",
       "Vehicle",
       "Spacecraft",
-      "Skeleton"
+      "Skeleton",
+      "Moth",
+      "Valkyrie",
+      "Doll"
     ]
   }
 }
