@@ -220,6 +220,15 @@
         "https://www.deviantart.com/sehanmyid/art/Colourful-Shift-1089057080"
       ],
       "related": []
+    },
+    {
+      "id": "25",
+      "filename": "EYmhMrCYHL42AZuSGitERnQjYu8=.jpg",
+      "tags": "solo weapon no_humans original sword 1girl sky 1boy holding long_hair cloud dragon male_focus claws holding_weapon armor bird wings animal TVP warrior soldier samurai Sehanmyid canid dog bear fox",
+      "sources": [
+        "https://www.deviantart.com/sehanmyid/art/Moon-Dog-852187893"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -323,7 +332,9 @@
       "Snake",
       "cat",
       "Dragon",
-      "angel"
+      "angel",
+      "dog",
+      "bear"
     ]
   }
 }
