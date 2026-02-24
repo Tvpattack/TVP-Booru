@@ -80,6 +80,13 @@
         "https://www.deviantart.com/hopevirtual/art/Obsidian-1299497019"
       ],
       "related": []
+    },
+    {
+      "id": "9",
+      "filename": "D5DnZEXGl-oY1wOGoYkc1_Cll1s=.jpg",
+      "tags": "no_humans solo 1girl sky cloud long_hair original fire claws red RockfrenzyArt scalie",
+      "sources": [],
+      "related": []
     }
   ],
   "collections": [
@@ -116,7 +123,8 @@
       "Ma",
       "Guillaume_Nomad",
       "\rAleyGiro",
-      "HopeVirtual"
+      "HopeVirtual",
+      "RockfrenzyArt"
     ],
     "character": [
       "fan_character"
@@ -155,7 +163,8 @@
       "monster",
       "Bird",
       "spirit",
-      "human"
+      "human",
+      "scalie"
     ]
   }
 }
