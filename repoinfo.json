@@ -87,6 +87,15 @@
       "tags": "no_humans solo 1girl sky cloud long_hair original fire claws red RockfrenzyArt scalie",
       "sources": [],
       "related": []
+    },
+    {
+      "id": "10",
+      "filename": "1eqNCPSHgdKAl4LeDenl51Eqbq8=.jpg",
+      "tags": "scenery sky cloud outdoors original mountain signature fantasy solo tree night cloudy_sky standing landscape cult cultist purple silver fingers RockfrenzyArt spirit skeleton",
+      "sources": [
+        "https://www.deviantart.com/rockfrenzyart/art/Threaded-One-1299887814"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -164,7 +173,8 @@
       "Bird",
       "spirit",
       "human",
-      "scalie"
+      "scalie",
+      "skeleton"
     ]
   }
 }
