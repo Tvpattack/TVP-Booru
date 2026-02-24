@@ -71,6 +71,15 @@
         "https://www.deviantart.com/hopevirtual/art/Rapture-1299497648"
       ],
       "related": []
+    },
+    {
+      "id": "8",
+      "filename": "6ql0znxjhLY0zq2JKj0fZLleWd0=.jpg",
+      "tags": "greyscale monochrome solo male_focus boots snow lights armour HopeVirtual human spirit",
+      "sources": [
+        "https://www.deviantart.com/hopevirtual/art/Obsidian-1299497019"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -81,7 +90,12 @@
     },
     {
       "id": "1",
-      "pages": [],
+      "pages": [
+        "7",
+        "6",
+        "5",
+        "3"
+      ],
       "name": "EoT"
     },
     {
@@ -140,7 +154,8 @@
       "bug",
       "monster",
       "Bird",
-      "spirit"
+      "spirit",
+      "human"
     ]
   }
 }
