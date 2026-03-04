@@ -409,6 +409,15 @@
         "https://www.deviantart.com/daisanvisart/art/Floating-Whiteness-854280419"
       ],
       "related": []
+    },
+    {
+      "id": "46",
+      "filename": "ZUCkyKqvMSD-bfJUxe7iU9FJLDo=.jpg",
+      "tags": "no_humans scenery original outdoors cloud EmberlaneArts jellyfish horror",
+      "sources": [
+        "https://www.deviantart.com/emberlanearts/art/Sevili-Herald-of-the-white-scorch-concept-art-973670416"
+      ],
+      "related": []
     }
   ],
   "collections": [
@@ -486,7 +495,8 @@
       "G-hamm",
       "M._Cooper",
       "\rRemarin",
-      "DaiSanVisART"
+      "DaiSanVisART",
+      "EmberlaneArts"
     ],
     "character": [
       "fan_character"
@@ -545,7 +555,9 @@
       "Beast",
       "horse",
       "demon",
-      "wolf"
+      "wolf",
+      "jellyfish",
+      "horror"
     ]
   }
 }
